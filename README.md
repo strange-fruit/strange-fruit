@@ -23,7 +23,7 @@ got eyes strained
 
 powered by dollex.io
 
-
+<!-- 
 # A collapsible section with markdown
 <details>
   <summary>Click to expand!</summary>
@@ -34,3 +34,4 @@ powered by dollex.io
      * With some
      * Sub bullets
 </details>
+-->
